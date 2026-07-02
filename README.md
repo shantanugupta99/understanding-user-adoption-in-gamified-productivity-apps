@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header.png" alt="UX Research Case Study" width="100%">
+  <img src="header_habitica.png" alt="UX Research Case Study" width="100%">
 </p>
 
 <h1 align="center">Understanding User Adoption in Gamified Productivity Apps</h1>
