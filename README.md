@@ -106,9 +106,11 @@ Our approach included:
 - Behavioral observation
 - Research synthesis
 
-The literature review established existing knowledge surrounding gamification, motivation, and user engagement before conducting the usability evaluation.
+Before conducting the usability study, I reviewed existing literature on gamification, motivation, productivity systems, and user engagement to understand established design principles and identify research gaps. This review informed the study design, usability tasks, and interpretation of participant behavior throughout the evaluation.
 
-By combining multiple research methods, the study captured both observable behaviors and participant perceptions, providing a more complete understanding of the user experience.
+The usability evaluation included participants with varying levels of familiarity with Habitica, allowing the study to compare onboarding experiences between first-time and experienced users.
+
+By combining multiple research methods, the study captured both observable behaviors and participant perceptions, providing a more complete understanding of the overall user experience.
 
 ---
 
